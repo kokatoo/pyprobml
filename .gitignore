@@ -1,0 +1,6 @@
+# html widget outputs
+*.html
+
+# plotly / htmlwidgets dependency folders
+*_files/
+plot_files/
